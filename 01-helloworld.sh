@@ -2,6 +2,6 @@
 
 #this is comment
 echo "hello world"
-Name1= Ram
-Name2= abdul
-echo "my first name $Name1 and last name $Name2"
+PERSON1= Ram
+PERSON2= abdul
+echo "my first name $PERSON1 and last name $PERSON2"
